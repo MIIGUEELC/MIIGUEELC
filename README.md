@@ -15,7 +15,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const miguel = {
   pronouns: "He" | "Him",
   code: ["Javascript", "React", "HTML", "CSS", "PHP"],
   askMeAbout: ["web dev", "frontend dev", "React", "PHP"],
