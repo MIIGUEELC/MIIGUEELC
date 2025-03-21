@@ -28,9 +28,5 @@ const miguel = {
 
 
 #### Popular Projects
-<a href="https://github.com/MIIGUEELC/HotelMiranda">
-  
-</a>    
-<a href="https://github.com/MIIGUEELC/FotosReact">
-</a>
+<p align="center"> <a href="https://github.com/MIIGUEELC/HotelMiranda" target="_blank"> <img src="https://img.shields.io/badge/HotelMiranda-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/MIIGUEELC/FotosReact" target="_blank"> <img src="https://img.shields.io/badge/FotosReact-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> ```
 
